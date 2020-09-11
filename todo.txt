@@ -1,0 +1,1 @@
+[ ] Read from a plaintext list and select one without needing to change any code
